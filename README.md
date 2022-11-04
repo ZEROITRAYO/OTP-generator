@@ -1,3 +1,3 @@
 # OTP-generator
-Feel free to eddit the code;
-Thank you
+Feel free to edit the code
+
